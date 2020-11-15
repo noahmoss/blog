@@ -2,7 +2,7 @@ theme = "hugo-theme-codex"
 title = "Noah Moss"
 languageCode = "en-us"
 baseURL = "https://noahmoss.me"
-copyright = "© {2020}"
+copyright = "© 2020"
 
 # Add your Disqus shortname here.
 # disqusShortname = ""
