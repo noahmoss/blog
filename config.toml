@@ -45,6 +45,7 @@ copyright = "© 2020"
   [markup.goldmark.renderer]
       unsafe = true
 
+
 # Controls the navigation
 [[menu.main]]
   identifier = "home"
