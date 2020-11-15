@@ -47,14 +47,22 @@ copyright = "© {2020}"
 
 # Controls the navigation
 [[menu.main]]
+  identifier = "home"
+  name = "home"
+  title = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
   identifier = "about"
   name = "about"
   title = "About"
-  url = "/"
+  url = "/about"
+  weight = 2
 
 [[menu.main]]
   identifier = "blog"
   name = "blog"
   title = "Blog"
   url = "/blog"
-
+  weight = 3
