@@ -15,5 +15,5 @@ better if others benefit from it as well.
 <br>
 <hr style="border: 1px solid lightgrey">
 
-This website is created with [Hugo](gohugo.io) using the beautifully minimal [Codex](themes.gohugo.io/hugo-theme-codex)
+This website is created with [Hugo](https://gohugo.io) using the beautifully minimal [Codex](https://themes.gohugo.io/hugo-theme-codex)
 theme.
