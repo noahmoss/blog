@@ -3,7 +3,7 @@ title: "About Me"
 ---
 
 I'm a software engineer based in the San Francisco Bay Area. I currently work primarily in Erlang, and my professional
-interests include backend application development, distributed systems, and functional programming.
+interests include backend development, distributed systems, and functional programming.
 
 This website, however, is mainly the home for my personal interests. Right now these include biology (particularly
 genomics and biotech), metacognition about learning and memory, and various aspects of tech policy and design.
